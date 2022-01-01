@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "ms-dotnettools.csharp",
+        "jchannon.csharpextensions",
+        "formulahendry.dotnet"
+    ]
+}
